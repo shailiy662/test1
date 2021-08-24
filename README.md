@@ -1,2 +1,2 @@
 # test1
-practicing github
+practicing sessions for github
